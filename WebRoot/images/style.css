@@ -1,0 +1,126 @@
+body {
+	background: url("../images/bg.gif"); font: 12px/180% Arial, Helvetica, sans-serif, Verdana; margin: 0px; color: rgb(90, 90, 90); font-size-adjust: none; font-stretch: normal;
+}
+html {
+	-webkit-text-size-adjust: none;
+}
+body {
+	-webkit-text-size-adjust: none;
+}
+table {
+	font: 12px/180% Arial, Helvetica, sans-serif, Verdana; color: rgb(90, 90, 90); font-size-adjust: none; font-stretch: normal;
+}
+td {
+	font: 12px/180% Arial, Helvetica, sans-serif, Verdana; color: rgb(90, 90, 90); font-size-adjust: none; font-stretch: normal;
+}
+table {
+	border-collapse: collapse; border-spacing: 0; empty-cells: show;
+}
+th {
+	border-collapse: collapse;
+}
+td {
+	border-collapse: collapse;
+}
+a:link {
+	color: rgb(90, 90, 90); text-decoration: none;
+}
+a:visited {
+	color: rgb(90, 90, 90); text-decoration: none;
+}
+a:hover {
+	color: rgb(255, 78, 0); text-decoration: none;
+}
+img {
+	border: 0px currentColor;
+}
+div {
+	margin: 0px; padding: 0px;
+}
+p {
+	margin: 0px; padding: 0px;
+}
+img {
+	margin: 0px; padding: 0px;
+}
+ul {
+	margin: 0px; padding: 0px;
+}
+li {
+	margin: 0px; padding: 0px;
+}
+form {
+	margin: 0px; padding: 0px;
+}
+input {
+	margin: 0px; padding: 0px;
+}
+label {
+	margin: 0px; padding: 0px;
+}
+span {
+	margin: 0px; padding: 0px;
+}
+dl {
+	margin: 0px; padding: 0px;
+}
+dt {
+	margin: 0px; padding: 0px;
+}
+dd {
+	margin: 0px; padding: 0px;
+}
+h1 {
+	margin: 0px; padding: 0px;
+}
+h2 {
+	margin: 0px; padding: 0px;
+}
+h3 {
+	margin: 0px; padding: 0px;
+}
+h4 {
+	margin: 0px; padding: 0px;
+}
+h5 {
+	margin: 0px; padding: 0px;
+}
+h6 {
+	margin: 0px; padding: 0px;
+}
+a {
+	
+}
+a {
+	
+}
+ol {
+	list-style-type: none;
+}
+ul {
+	list-style-type: none;
+}
+li {
+	list-style-type: none;
+}
+.overz {
+	overflow: auto; overflow-x: hidden; overflow-y: hidden; zoom: 1;
+}
+.mn_12 {
+	margin-bottom: 12px;
+}
+.font_14 {
+	font-size: 14px;
+}
+.font_15 {
+	font-size: 14px;
+}
+.font_16 {
+	font-size: 16px;
+}
+.orange_fontc {
+	color: rgb(255, 78, 0);
+}
+.site_under {
+	margin: 0px auto; text-align: center;
+}
